@@ -1,0 +1,36 @@
+h1{
+    color: burlywood;
+    text-align: center;
+}
+div {
+    border: solid 5px cadetblue;
+    font-size:40px;
+    margin:5px;
+    text-align: center;
+}
+
+.big {
+    font-size: 1.5em;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    /* flex-direction: column-reverse; */
+    /* flex-direction: row-reverse; joga para o lado direito */
+    width: 50%;
+    flex-wrap: wrap; /*existem diversas outras arrumações*/
+    /* flex-flow: row wrap */
+
+    justify-content: flex-start;
+
+    /*Cross Axis*/
+    height: 400px;
+    /* align-items: stretch; */
+    align-items: baseline;
+
+    /* mais de uma linha*/
+    align-content: flex-start;
+    align-content: center;
+
+}
