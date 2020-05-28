@@ -11,7 +11,7 @@
     os módulos de layout do flexbox.</li>
     <li><b>grid: </b> arquivos com extensão .css cujos códigos apresentam 
         os módulos de layout do grid.</li>
-    <li><b>Bootstrap:</b>arquivos com extensão .css para treino e verificação de 
+    <li><b>Bootstrap:</b>arquivos para treino e verificação de 
     códigos com base nessa biblioteca baseada em flexbox e grid.</li>
 </ul>
 
